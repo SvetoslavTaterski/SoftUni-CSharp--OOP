@@ -1,0 +1,13 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Inheritance\Inheritance Lab\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Inheritance\Inheritance Lab\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Inheritance\Inheritance Lab\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Inheritance\Inheritance Lab\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Inheritance\Inheritance Lab\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Inheritance\Inheritance Lab\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Inheritance\Inheritance Lab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Inheritance\Inheritance Lab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Inheritance\Inheritance Lab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Inheritance\Inheritance Lab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Inheritance\Inheritance Lab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Inheritance\Inheritance Lab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Inheritance\Inheritance Lab\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.genruntimeconfig.cache
