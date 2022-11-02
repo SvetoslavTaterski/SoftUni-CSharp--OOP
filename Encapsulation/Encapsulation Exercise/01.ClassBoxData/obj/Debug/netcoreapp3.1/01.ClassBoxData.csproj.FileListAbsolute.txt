@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.genruntimeconfig.cache

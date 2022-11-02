@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\04.PizzaCalories\bin\Debug\netcoreapp3.1\04.PizzaCalories.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\04.PizzaCalories\bin\Debug\netcoreapp3.1\04.PizzaCalories.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\04.PizzaCalories\bin\Debug\netcoreapp3.1\04.PizzaCalories.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\04.PizzaCalories\bin\Debug\netcoreapp3.1\04.PizzaCalories.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\04.PizzaCalories\bin\Debug\netcoreapp3.1\04.PizzaCalories.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\04.PizzaCalories\bin\Debug\netcoreapp3.1\04.PizzaCalories.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\04.PizzaCalories\obj\Debug\netcoreapp3.1\04.PizzaCalories.genruntimeconfig.cache

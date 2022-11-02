@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\03.ShoppingSpree\bin\Debug\netcoreapp3.1\03.ShoppingSpree.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\03.ShoppingSpree\bin\Debug\netcoreapp3.1\03.ShoppingSpree.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\03.ShoppingSpree\bin\Debug\netcoreapp3.1\03.ShoppingSpree.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\03.ShoppingSpree\bin\Debug\netcoreapp3.1\03.ShoppingSpree.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\03.ShoppingSpree\bin\Debug\netcoreapp3.1\03.ShoppingSpree.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\03.ShoppingSpree\bin\Debug\netcoreapp3.1\03.ShoppingSpree.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\03.ShoppingSpree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\03.ShoppingSpree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\03.ShoppingSpree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\03.ShoppingSpree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\03.ShoppingSpree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\03.ShoppingSpree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\03.ShoppingSpree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Encapsulation\Encapsulation Exercise\03.ShoppingSpree\obj\Debug\netcoreapp3.1\03.ShoppingSpree.genruntimeconfig.cache
