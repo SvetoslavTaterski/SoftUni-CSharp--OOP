@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Lab\Operations\bin\Debug\netcoreapp3.1\Operations.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Lab\Operations\bin\Debug\netcoreapp3.1\Operations.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Lab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Lab\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Lab\Operations\bin\Debug\netcoreapp3.1\Operations.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Lab\Operations\bin\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Lab\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Lab\Operations\obj\Debug\netcoreapp3.1\Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Lab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Lab\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Lab\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Lab\Operations\obj\Debug\netcoreapp3.1\Operations.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Lab\Operations\obj\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Lab\Operations\obj\Debug\netcoreapp3.1\Operations.genruntimeconfig.cache
