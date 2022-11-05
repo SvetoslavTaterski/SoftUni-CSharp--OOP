@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Interfaces and Abstraction\Interfaces and Abstraction Exercise\Border Control\bin\Debug\netcoreapp3.1\BorderControl.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Interfaces and Abstraction\Interfaces and Abstraction Exercise\Border Control\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Interfaces and Abstraction\Interfaces and Abstraction Exercise\Border Control\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Interfaces and Abstraction\Interfaces and Abstraction Exercise\Border Control\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Interfaces and Abstraction\Interfaces and Abstraction Exercise\Border Control\bin\Debug\netcoreapp3.1\BorderControl.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Interfaces and Abstraction\Interfaces and Abstraction Exercise\Border Control\bin\Debug\netcoreapp3.1\BorderControl.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Interfaces and Abstraction\Interfaces and Abstraction Exercise\Border Control\obj\Debug\netcoreapp3.1\BorderControl.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Interfaces and Abstraction\Interfaces and Abstraction Exercise\Border Control\obj\Debug\netcoreapp3.1\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Interfaces and Abstraction\Interfaces and Abstraction Exercise\Border Control\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Interfaces and Abstraction\Interfaces and Abstraction Exercise\Border Control\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Interfaces and Abstraction\Interfaces and Abstraction Exercise\Border Control\obj\Debug\netcoreapp3.1\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Interfaces and Abstraction\Interfaces and Abstraction Exercise\Border Control\obj\Debug\netcoreapp3.1\BorderControl.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Interfaces and Abstraction\Interfaces and Abstraction Exercise\Border Control\obj\Debug\netcoreapp3.1\BorderControl.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Interfaces and Abstraction\Interfaces and Abstraction Exercise\Border Control\obj\Debug\netcoreapp3.1\BorderControl.genruntimeconfig.cache
