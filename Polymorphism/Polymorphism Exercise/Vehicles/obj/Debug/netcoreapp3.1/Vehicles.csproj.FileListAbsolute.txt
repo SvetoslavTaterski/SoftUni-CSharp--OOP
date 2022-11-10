@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache

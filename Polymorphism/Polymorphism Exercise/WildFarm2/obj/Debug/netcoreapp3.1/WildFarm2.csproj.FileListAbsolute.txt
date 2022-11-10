@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\WildFarm2\bin\Debug\netcoreapp3.1\WildFarm2.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\WildFarm2\bin\Debug\netcoreapp3.1\WildFarm2.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\WildFarm2\bin\Debug\netcoreapp3.1\WildFarm2.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\WildFarm2\bin\Debug\netcoreapp3.1\WildFarm2.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\WildFarm2\bin\Debug\netcoreapp3.1\WildFarm2.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\WildFarm2\bin\Debug\netcoreapp3.1\WildFarm2.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\WildFarm2\obj\Debug\netcoreapp3.1\WildFarm2.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\WildFarm2\obj\Debug\netcoreapp3.1\WildFarm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\WildFarm2\obj\Debug\netcoreapp3.1\WildFarm2.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\WildFarm2\obj\Debug\netcoreapp3.1\WildFarm2.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\WildFarm2\obj\Debug\netcoreapp3.1\WildFarm2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\WildFarm2\obj\Debug\netcoreapp3.1\WildFarm2.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\WildFarm2\obj\Debug\netcoreapp3.1\WildFarm2.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Polymorphism\Polymorphism Exercise\WildFarm2\obj\Debug\netcoreapp3.1\WildFarm2.genruntimeconfig.cache
