@@ -1,0 +1,13 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Reflection and Attributes\Reflection and Attributes Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Reflection and Attributes\Reflection and Attributes Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Reflection and Attributes\Reflection and Attributes Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Reflection and Attributes\Reflection and Attributes Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Reflection and Attributes\Reflection and Attributes Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Reflection and Attributes\Reflection and Attributes Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Reflection and Attributes\Reflection and Attributes Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Reflection and Attributes\Reflection and Attributes Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Reflection and Attributes\Reflection and Attributes Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Reflection and Attributes\Reflection and Attributes Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Reflection and Attributes\Reflection and Attributes Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Reflection and Attributes\Reflection and Attributes Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Reflection and Attributes\Reflection and Attributes Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache
