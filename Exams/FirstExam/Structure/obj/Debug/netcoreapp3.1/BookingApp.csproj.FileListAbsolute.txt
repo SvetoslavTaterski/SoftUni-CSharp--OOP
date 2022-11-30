@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Exams\FirstExam\Structure\bin\Debug\netcoreapp3.1\BookingApp.exe
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Exams\FirstExam\Structure\bin\Debug\netcoreapp3.1\BookingApp.deps.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Exams\FirstExam\Structure\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Exams\FirstExam\Structure\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.dev.json
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Exams\FirstExam\Structure\bin\Debug\netcoreapp3.1\BookingApp.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Exams\FirstExam\Structure\bin\Debug\netcoreapp3.1\BookingApp.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Exams\FirstExam\Structure\obj\Debug\netcoreapp3.1\BookingApp.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Exams\FirstExam\Structure\obj\Debug\netcoreapp3.1\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Exams\FirstExam\Structure\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Exams\FirstExam\Structure\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Exams\FirstExam\Structure\obj\Debug\netcoreapp3.1\BookingApp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Exams\FirstExam\Structure\obj\Debug\netcoreapp3.1\BookingApp.dll
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Exams\FirstExam\Structure\obj\Debug\netcoreapp3.1\BookingApp.pdb
+C:\Users\Acer\OneDrive\Desktop\SoftUni\OOP\Exams\FirstExam\Structure\obj\Debug\netcoreapp3.1\BookingApp.genruntimeconfig.cache
